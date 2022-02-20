@@ -1,9 +1,3 @@
-script -f -e -c./challenge_question_1.sh challenge_question_1.txt; fromdos < challenge_question_1.txt > tmp.txt; cat tmp.txt > challenge_question_1.txt; rm tmp.txt
-
-
-
-
-
 # Desenhar escada
 ## Constraints and conditions
 - `#!/usr/bin/php` at the code's begining is optional, depending on how you will test the code.
@@ -21,3 +15,8 @@ fromdos < challenge_question_1.txt > tmp.txt;
 cat tmp.txt > challenge_question_1.txt;
 rm tmp.txt
 ```
+## Additions
+
+To show a little more about my code, I provided a second version [available here](challenge_question_1_extra.php) .
+That version can be used to do more tests and to show more results.
+This extra version helped me during the development process.
