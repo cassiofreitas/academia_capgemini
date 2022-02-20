@@ -6,9 +6,9 @@
 
 ## Tests
 
-To run a loop of calls, I used a bash script [available here](challenge_question_1.sh).
+To run a loop of calls, I used a bash script [`available here`](challenge_question_1.sh).
 
-To run that bash script and to produces its outputs [available here](challenge_question_1.txt), I used the following command sequence:
+To run that bash script and to produces its outputs [`available here`](challenge_question_1.txt), I used the following command sequence:
 ```
 script -f -e -c./challenge_question_1.sh challenge_question_1.txt;
 fromdos < challenge_question_1.txt > tmp.txt;
@@ -17,7 +17,7 @@ rm tmp.txt
 ```
 ## Additions
 
-To show a little more about my code, I provided a second version [available here](challenge_question_1_extra.php).
+To show a little more about my code, I provided a second version [`available here`](challenge_question_1_extra.php).
 
 That version can be used to do more tests and to show more results.
 
