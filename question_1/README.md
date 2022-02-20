@@ -10,8 +10,14 @@ script -f -e -c./challenge_question_1.sh challenge_question_1.txt; fromdos < cha
 - `stairsize` variable must be an integer > 0
 - to get better results, execute the system using a command line, where the stairs effect looks better.
 
-```
-[bash script to make basic tests](challenge_question_1.sh)
-```
-script -f -e -c./challenge_question_1.sh challenge_question_1.txt; fromdos < challenge_question_1.txt > tmp.txt; cat tmp.txt > challenge_question_1.txt; rm tmp.txt
+## Tests
 
+To run a loop of calls, I used a [bash script](challenge_question_1.sh).
+
+To run that bash script and to produces its outputs [available here](challenge_question_1.txt), I used the following command sequence:
+```
+script -f -e -c./challenge_question_1.sh challenge_question_1.txt;
+fromdos < challenge_question_1.txt > tmp.txt;
+cat tmp.txt > challenge_question_1.txt;
+rm tmp.txt
+```
