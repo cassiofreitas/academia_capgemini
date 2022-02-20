@@ -1,2 +1,0 @@
-script -f -e -c./challenge_question_1.sh challenge_question_1.txt; fromdos < challenge_question_1.txt > tmp.txt; cat tmp.txt > challenge_question_1.txt; rm tmp.txt
-
