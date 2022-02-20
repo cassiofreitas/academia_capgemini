@@ -18,7 +18,7 @@ As I alerted before, at **Constraints and conditions**, tests were limited to ch
 To show a little more about my code, I provided a second version [`available here`](challenge_question_2_extra.php).
 
 This extra version can be executed directly, like `./challenge_question_2_extra.php <somepasswordhere>`
-- `Warning 1`: this test must be done in a compatible environment [`see here`](./README.md)
+- `Warning 1`: this test must be done in a compatible environment [`see here`](/README.md)
 - `Warning 2`: as it is a command line, using bash, special attention is required to user special chars.
 
 This version can be used to do more tests and to show more results.
