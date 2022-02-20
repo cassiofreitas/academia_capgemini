@@ -40,3 +40,8 @@ Copyright (c) 1997-2018 The PHP Group
 Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
     with Zend OPcache v7.2.24-0ubuntu0.18.04.10, Copyright (c) 1999-2018, by Zend Technologies
 ```
+## Preliminary analysis
+
+- To test my solutions, INPUT data must be insert, accordingly, in the code.
+- There isn't information, in the challenge description, explaining how do you will make tests. 
+- At each folder, to each question, I have made other analysis, concerning that specific question. 
