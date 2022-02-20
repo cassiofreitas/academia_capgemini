@@ -6,7 +6,7 @@
 
 ## Tests
 
-To run a loop of calls, I used a [bash script](challenge_question_1.sh).
+To run a loop of calls, I used a bash script [available here](challenge_question_1.sh).
 
 To run that bash script and to produces its outputs [available here](challenge_question_1.txt), I used the following command sequence:
 ```
