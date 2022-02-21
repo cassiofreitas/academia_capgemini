@@ -15,7 +15,9 @@ This is my [`Linkedin`](https://www.linkedin.com/in/cassio-freitas/)
 
 I would like to thank you for this opportunity. I really enjoyed to develop again. It will be great to become a better developer.
 
-Unfortunately, right now, I had to use PHP. The last time I develop some code, using Java, was in 2005. But, I will refresh my Java programming skills. 🙂
+Unfortunately, right now, I had to use PHP. The last time I develop some code, using Java, was in 2005.
+
+Anyway, I will refresh my Java programming skills and I am also studying Python, JavaScript, HTML5 and CSS3. 🙂
 
 You can get more information about me, about my career and about my experience in my Linkedin.
 
