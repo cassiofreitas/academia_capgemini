@@ -14,6 +14,6 @@ As this is a much more simple program, tests were made just changing the passwor
 
 To show a little more about my code, I provided a second version [`available here`](challenge_question_1_extra.php).
 
-That version can be used to do more tests and to show more results.
+This version can be used to do more tests and to show more results.
 
 This extra version helped me during the development process.
