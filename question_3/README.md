@@ -1,4 +1,4 @@
-# Anagramas pares 
+# Pairs of anagrams 
 ## Constraints and conditions
 - `#!/usr/bin/php` at the code's begining is optional, depending on how you will test the code.
 - `sourcestr` variable must respect the required constraints and be manually filled to make tests.
