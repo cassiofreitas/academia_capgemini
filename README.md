@@ -4,19 +4,14 @@
  `Warning:` as required in the challenge, this repository is Public, so, anyone can read it and, of course, copy all of the code. I believe that you are expecting this behavior.
  
  This repository is the place I uploaded my solutions to this challenge.
- My solutions are organized in folders, where:
+ 
+ My solutions are organized in the folders, each one providing specific information about each questions.
+ 
+ This is the folder structure:
 
-- question_1
-  - in this folder, there are files with my solution to question 1
-  - there is a file README.md with my analysis.
-
-- question_2
-  - in this folder, there are files with my solution to question 2
-  - there is a file README.md with my analysis.
-
-- question_3
-  - in this folder, there are files with my solution to question 3
-  - there is a file README.md with my analysis.
+- [`Questão 1`:](./question_1)
+- [`Questão 2`:](./question_2)
+- [`Questão 3`:](./question_3)
 
 ## Development environment
 
@@ -45,3 +40,7 @@ Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
 - To test my solutions, INPUT data must be insert, accordingly, in the code.
 - There isn't information, in the challenge description, explaining how do you will make tests. 
 - At each folder, to each question, I have made other analysis, concerning that specific question. 
+
+## Final thoughts
+
+This documentation was made directly at GitHub editor, using some MarkDown resources.
