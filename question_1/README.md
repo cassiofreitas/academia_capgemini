@@ -19,7 +19,7 @@ rm tmp.txt
 
 To show a little more about my code, I provided a second version [`available here`](challenge_question_1_extra.php).
 
-This version can be executed using this format: `./challenge_question_1.php <stairsizeher>`
+This version can be executed using this format: `./challenge_question_1_extra.php <stairsizeher>`
 
 This version can be used to do more tests and to show more results.
 
