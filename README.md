@@ -32,7 +32,7 @@ Best regards.
  
  This repository is the place I uploaded my solutions to this challenge.
  
- My solutions are organized in the folders, each one providing specific information about each questions.
+ My solutions are organized in folders, each one providing specific information about each questions.
  
  This is the folder structure:
 
