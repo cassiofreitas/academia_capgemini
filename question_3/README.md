@@ -1,9 +1,10 @@
 # Anagramas pares 
 ## Constraints and conditions
 - `#!/usr/bin/php` at the code's begining is optional, depending on how you will test the code.
-- `sourcestr` variable must respect the required constraints.
-  - `Warning:` this challenge, in my opinion, needs a little more information to help the developer.
-     - `Concern 1`: it is not required to make any kind of password string sanitization, to assure that constraints.
+- `sourcestr` variable must respect the required constraints and be manually filled to make tests.
+  - `Warning:` this challenge, in my opinion, needs a check at the examples results and explanations.
+     - `Example 1`: input: ovo; output: 3; explanation: [o, o], [ov, vo] at [[0, 2], [0, 1], [1, 2]].
+     - `Example 2`: input: ifailuhkqq; output: 3; explanation: [i, i], [q, q] e [ifa, fai] at [[0, 3]],[[8, 9]] e [[0, 1, 2], [1, 2, 3]]
      - `Problem 1`: if that checks are made to assure constraints, it is not possible to alert the user.
      - `Reason 1`: the required output to the user is restricted to tell her that minimum # of passwords char is required.
 
@@ -26,4 +27,3 @@ This version can be used to do more tests and to show more results.
 If you check this code you will see some REGEX tests, some parameters sanitization and even more information to the user.
 
 This extra version helped me during the development process.
-
