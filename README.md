@@ -1,7 +1,31 @@
 # Academia Tecnica Capgemini 2022 - DESAFIO DE PROGRAMACAO
 
+## Introduction
+
+My name is Cassio.
+
+This is the first time I use MarkDown.
+
+This is my website (**work in progress**)[`CassioFreitas.COM`](https://me.cassiofreitas.com.br/)
+
+This is my [`GitHub address`](https://github.com/cassiofreitas)
+
+This is my [`Linkedin`](https://www.linkedin.com/in/cassio-freitas/)
+
+I would like to thank you for this opportunity. It really enjoyed to develop again.
+
+Unfortunately, right now, I have to use PHP. The last time I develop some code, using Java, was in 2005. 🙂
+
+You can get more information about me, about my career, about my experience in my Linkedin.
+
+I really like to study an to learn new things, every day.
+
+Thank you. 
+Best regards.
+
 ## Contextualization
- `Warning:` as required in the challenge, this repository is Public, so, anyone can read it and, of course, copy all of the code. I believe that you are expecting this behavior.
+ - `Warning 1:` as required in the challenge, this repository is Public, so, anyone can read it and, of course, copy all of the code.
+ - `Warning 2:`I believe that you are expecting this behavior.
  
  This repository is the place I uploaded my solutions to this challenge.
  
