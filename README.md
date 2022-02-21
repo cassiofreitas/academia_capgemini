@@ -17,7 +17,7 @@ I would like to thank you for this opportunity. I really enjoyed to develop agai
 
 Unfortunately, right now, I had to use PHP. The last time I develop some code, using Java, was in 2005. But, I will refresh my Java programming skills. 🙂
 
-You can get more information about me, about my career, about my experience in my Linkedin.
+You can get more information about me, about my career and about my experience in my Linkedin.
 
 I really like to study an to learn new things, every day.
 
