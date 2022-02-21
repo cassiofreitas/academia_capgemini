@@ -9,9 +9,9 @@
  
  This is the folder structure:
 
-- [`Questão 1`:](./question_1)
-- [`Questão 2`:](./question_2)
-- [`Questão 3`:](./question_3)
+- [`Questão 1`: Drawing a stair of \*](./question_1)
+- [`Questão 2`: Helping Débora with her password ](./question_2)
+- [`Questão 3`: Pairs of anagrams ](./question_3)
 
 ## Development environment
 
