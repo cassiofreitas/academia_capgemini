@@ -13,7 +13,7 @@ This is my [`GitHub address`](https://github.com/cassiofreitas)
 
 This is my [`Linkedin`](https://www.linkedin.com/in/cassio-freitas/)
 
-I would like to thank you for this opportunity. It really enjoyed to develop again.
+I would like to thank you for this opportunity. I really enjoyed to develop again. It will be great to become a better developer.
 
 Unfortunately, right now, I have to use PHP. The last time I develop some code, using Java, was in 2005. 🙂
 
