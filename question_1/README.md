@@ -1,4 +1,4 @@
-# Desenhar escada com `*`
+# Drawing a stair of `*`
 ## Constraints and conditions
 - `#!/usr/bin/php` at the code's begining is optional, depending on how you will test the code.
 - `stairsize` variable must be an integer > 0
