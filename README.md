@@ -1,4 +1,5 @@
-# Academia Tecnica Capgemini 2022 - DESAFIO DE PROGRAMACAO
+# Academia Tecnica Capgemini 2022
+# DESAFIO DE PROGRAMACAO
 
 ## Introduction
 
