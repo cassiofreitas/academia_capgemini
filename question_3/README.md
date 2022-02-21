@@ -1,7 +1,7 @@
-# Helping Débora with her password 	:slightly_smiling_face:
+# Anagramas pares 
 ## Constraints and conditions
 - `#!/usr/bin/php` at the code's begining is optional, depending on how you will test the code.
-- `password` variable must respect the required constraints.
+- `sourcestr` variable must respect the required constraints.
   - `Warning:` this challenge, in my opinion, needs a little more information to help the developer.
      - `Concern 1`: it is not required to make any kind of password string sanitization, to assure that constraints.
      - `Problem 1`: if that checks are made to assure constraints, it is not possible to alert the user.
