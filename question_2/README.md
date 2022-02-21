@@ -8,11 +8,13 @@
     - `Reason 1`: the required output to user is just to tell her that minimum # of passwords char is not enough.
 ## Tests
 
-As this is a much more simple program, tests were made just changing the password string
+As this is a much more simple program, tests were made just changing the password string and checking the results.
 
 ## Additions
 
-To show a little more about my code, I provided a second version [`available here`](challenge_question_1_extra.php).
+To show a little more about my code, I provided a second version [`available here`](challenge_question_2_extra.php).
+
+This version can be executed using this format: `./challenge_question_2_extra.php <passwordhere>`
 
 This version can be used to do more tests and to show more results.
 
